@@ -1,4 +1,4 @@
-# No need for 'import self'
+
 print("Welcome to NASHVILLE Course Registration and Payment System\n")
 
 # Predefined students' names
